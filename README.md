@@ -38,7 +38,7 @@ $ docker-compose up -d
 
 Start IRIS RAD Studio using User/Password as rad/SYS
 
-![docker_compose](https://user-images.githubusercontent.com/2781759/76656929-0f2e5700-6547-11ea-9cc9-486a5641c51d.gif)
+![docker_compose](https://github.com/jrpereirajr/iris-rad-studio-samples/raw/master/img/iuhsb7VNh4.gif)
 
 ### What's inside the repository
 

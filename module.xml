@@ -12,7 +12,8 @@
         </ModuleReference>
       </Dependencies>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="User.forms.PKG"/>
+      <Resource Name="Form.Test.PKG"/>
+      <Resource Name="User.Forms.PKG"/>
     </Module>
   </Document>
 </Export>
